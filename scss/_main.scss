@@ -1,0 +1,43 @@
+.brand {
+    height: 60px;
+    font-size: 20px;
+}
+
+.fondo {
+    background-image: url("/dist/Images/fondo.png");
+
+}
+
+.contenedor {
+    max-width: 350px;
+    padding: 20px 20px;
+    background-color: rgba(88, 91, 94, 0.445);
+    
+}
+
+.contenedor_texto {
+    max-width: 500px;
+    padding: 20px 20px;
+}
+
+.buton {
+
+    background-color: transparent;
+}
+
+.form_centrar {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.margin-left{
+    margin-left: 20px !important;
+}
+
+.tamano{
+    font-size: 12px;
+    text-align: center;
+}
